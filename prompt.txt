@@ -1,0 +1,40 @@
+❯ Contexte : Agis comme un nutritionniste et chef cuisinier spécialisé dans 
+  la cuisine végétarienne et de saison.                                     
+                                                                            
+  Objectif : Génère un menu hebdomadaire équilibré du dimanche au samedi    
+  comprenant 7 plats principaux pour le dîner.                              
+                                                                            
+  Contraintes de contenu :                                                  
+                                                                            
+  Régime : 100 % végétarien.                                                
+                                                                            
+  Saisonnalité : Utilise exclusivement des légumes de saison (nous          
+  sommes actuellement en [PRÉCISER LE MOIS ACTUEL]).                        
+                                                                            
+  Nutrition : Chaque plat doit inclure une source de protéines              
+  végétales (légumineuses, tofu, tempeh, œufs, fromage, seitan, etc.).      
+                                                                            
+  Féculents : Varie les plaisirs (pâtes, riz, pommes de terre, quinoa,      
+  boulgour, patate douce, etc.).                                            
+                                                                            
+  Variété des textures : Propose des formats différents (un gratin, une     
+  quiche/tarte, une soupe complète, un plat en sauce, une salade composée,  
+  etc.).                                                                    
+                                                                            
+  Contraintes de temps :                                                    
+                                                                            
+  Le lundi soir et le jeudi soir doivent être des recettes "express"        
+  (moins de 20 minutes).                                                    
+                                                                            
+  Pour chaque plat, indique une description rapide de la préparation et     
+  le temps de préparation estimé.                                           
+                                                                            
+  Format de sortie :                                                        
+                                                                            
+  Le menu détaillé jour par jour.                                           
+                                                                            
+  Une liste de courses complète, classée par rayons. Important pour la      
+  liste de courses : Pour les légumes, indique le nombre d'unités (ex: 3    
+  poireaux, 2 courges) plutôt que le poids en grammes, dans la mesure du    
+  possible.                                                                 
+
