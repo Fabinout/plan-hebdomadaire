@@ -39,7 +39,7 @@
 
   ---
 
-#### Vendredi
+#### Vendredi
 
   Soupe complète de lentilles corail, carottes et panais
   Velouté épais de lentilles corail avec carottes et panais, parfumé au cumin et curcuma, servi avec des croûtons à l'ail. Source de protéines : lentilles corail.
@@ -47,7 +47,7 @@
 
   ---
 
-#### Samedi
+#### Samedi
 
   Risotto au céleri-rave et noisettes, copeaux de parmesan
   Risotto crémeux au céleri-rave caramélisé, noisettes torréfiées et parmesan, touche de thym frais. Source de protéines : parmesan + noisettes.
