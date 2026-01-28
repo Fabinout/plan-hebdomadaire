@@ -2,7 +2,7 @@
 
 ## Menu de la Semaine
 
-### Dimanche — Lasagnes aux épinards et ricotta
+### mercredi — Lasagnes aux épinards et ricotta
 **Protéines :** Ricotta, parmesan, œuf
 **Féculent :** Pâtes à lasagne
 **Préparation :** Faire tomber les épinards à la poêle. Mélanger la ricotta avec un œuf, du parmesan et de la muscade. Monter les lasagnes en alternant pâtes, épinards, mélange ricotta et béchamel. Gratiner au four.
@@ -10,7 +10,7 @@
 
 ---
 
-### Lundi — Omelette aux champignons et salade de mâche (EXPRESS)
+### jeudi — Omelette aux champignons et salade de mâche (EXPRESS)
 **Protéines :** Œufs
 **Féculent :** Pain complet
 **Préparation :** Faire sauter les champignons à la poêle avec de l'ail et du persil. Battre les œufs, verser sur les champignons et cuire l'omelette. Servir avec une salade de mâche et des noix.
@@ -18,23 +18,8 @@
 
 ---
 
-### Mardi — Quiche au chou-fleur et chèvre frais
-**Protéines :** Œufs, chèvre frais
-**Féculent :** Pâte brisée
-**Préparation :** Précuire les bouquets de chou-fleur à la vapeur. Foncer un moule avec la pâte, disposer le chou-fleur, émietter le chèvre. Verser l'appareil (œufs + crème) et enfourner.
-**Temps :** 45 min (15 min prépa + 30 min cuisson)
 
----
-
-### Mercredi — Soupe de panais et céleri-rave aux haricots blancs
-**Protéines :** Haricots blancs
-**Féculent :** Haricots blancs, pain grillé
-**Préparation :** Faire revenir oignon et ail, ajouter panais et céleri-rave en cubes. Couvrir de bouillon, cuire 20 min. Ajouter les haricots blancs égouttés, mixer. Servir avec des noisettes grillées concassées et du pain.
-**Temps :** 35 min
-
----
-
-### Jeudi — Pâtes au pesto de kale et pignons (EXPRESS)
+### samedi midi — Pâtes au pesto de kale et pignons (EXPRESS)
 **Protéines :** Parmesan, pignons de pin
 **Féculent :** Pâtes
 **Préparation :** Cuire les pâtes. Pendant ce temps, mixer le kale blanchi avec parmesan, pignons, ail et huile d'olive pour faire le pesto. Mélanger les pâtes égouttées avec le pesto.
@@ -42,7 +27,7 @@
 
 ---
 
-### Vendredi — Bourguignon végétarien au tofu et légumes racines
+### samedi soir — Bourguignon végétarien au tofu et légumes racines
 **Protéines :** Tofu ferme
 **Féculent :** Pommes de terre vapeur
 **Préparation :** Faire dorer le tofu en cubes. Faire revenir oignons, carottes et navets. Déglacer au vin rouge, ajouter bouillon, concentré de tomate et herbes. Mijoter 30 min. Servir avec des pommes de terre vapeur.
@@ -50,13 +35,30 @@
 
 ---
 
-### Samedi — Salade tiède de quinoa, betteraves rôties et feta
+### dimanche midi — Salade tiède de quinoa, betteraves rôties et feta
 **Protéines :** Feta, quinoa
 **Féculent :** Quinoa
 **Préparation :** Rôtir les betteraves en dés au four avec un filet d'huile. Cuire le quinoa. Assembler avec la mâche, les betteraves tièdes, la feta émiettée, des noix et une vinaigrette au miel-moutarde.
 **Temps :** 45 min (dont 30 min cuisson betteraves)
 
 ---
+
+### dimanche soir — Quiche au chou-fleur et chèvre frais
+**Protéines :** Œufs, chèvre frais
+**Féculent :** Pâte brisée
+**Préparation :** Précuire les bouquets de chou-fleur à la vapeur. Foncer un moule avec la pâte, disposer le chou-fleur, émietter le chèvre. Verser l'appareil (œufs + crème) et enfourner.
+**Temps :** 45 min (15 min prépa + 30 min cuisson)
+
+---
+
+### lundi — Soupe de panais et céleri-rave aux haricots blancs
+**Protéines :** Haricots blancs
+**Féculent :** Haricots blancs, pain grillé
+**Préparation :** Faire revenir oignon et ail, ajouter panais et céleri-rave en cubes. Couvrir de bouillon, cuire 20 min. Ajouter les haricots blancs égouttés, mixer. Servir avec des noisettes grillées concassées et du pain.
+**Temps :** 35 min
+
+---
+
 
 ## Liste de Courses
 
