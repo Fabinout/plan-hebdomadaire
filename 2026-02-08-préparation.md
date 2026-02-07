@@ -2,7 +2,7 @@
 
 ## Menu de la Semaine
 
-### Dimanche — Tarte tatin aux endives caramélisées et fromage bleu
+### Dimanche — Tarte tatin aux endives caramélisées et parmesan
 **Protéines :** Parmesan
 **Féculent :** Pâte feuilletée
 **Préparation :** Couper les endives en deux et les faire caraméliser dans du beurre avec une pincée de sucre jusqu'à coloration dorée. Les disposer dans un moule, émietter le fromage parmesan par-dessus, recouvrir de pâte feuilletée en rentrant les bords. Enfourner à 200 °C. Retourner à la sortie du four.
