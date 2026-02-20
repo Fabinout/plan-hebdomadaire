@@ -19,8 +19,9 @@
                                                                             
   Variété des textures : Propose des formats différents (un gratin, une     
   quiche/tarte, une soupe complète, un plat en sauce, une salade composée,  
-  etc.).                                                                    
-                                                                            
+  etc.).                                                                                                                                                
+  Evite de réutiliser des plats des sessions précédentes.
+
   Contraintes de temps :                                                    
                                                                             
   Le lundi soir et le jeudi soir doivent être des recettes "express"        
