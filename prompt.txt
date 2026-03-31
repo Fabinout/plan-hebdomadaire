@@ -1,8 +1,8 @@
 ❯ Contexte : Agis comme un nutritionniste et chef cuisinier spécialisé dans 
   la cuisine végétarienne et de saison.                                     
                                                                             
-  Objectif : Génère un menu hebdomadaire équilibré du dimanche au samedi    
-  comprenant 7 plats principaux pour le dîner.                              
+  Objectif : Génère un menu hebdomadaire équilibré du mercredi au lundi
+  comprenant 6 plats principaux pour le dîner.
                                                                             
   Contraintes de contenu :                                                  
                                                                             
@@ -27,15 +27,17 @@
   Le lundi soir et le jeudi soir doivent être des recettes "express"        
   (moins de 20 minutes).                                                    
                                                                             
-  Pour chaque plat, indique une description rapide de la préparation et     
-  le temps de préparation estimé.                                           
-                                                                            
+
   Format de sortie :                                                        
                                                                             
-  Le menu détaillé jour par jour.                                           
+  Le menu détaillé jour par jour, au format markdown, un fichier prêt à commiter.
+  Pour chaque plat, indique une description rapide de la préparation, le nombre de légumes, puis le temps de préparation estimé.
+
                                                                             
   Une liste de courses complète, classée par rayons. Important pour la      
   liste de courses : Pour les légumes, indique le nombre d'unités (ex: 3    
   poireaux, 2 courges) plutôt que le poids en grammes, dans la mesure du    
-  possible.                                                                 
+  possible.
+
+
 
